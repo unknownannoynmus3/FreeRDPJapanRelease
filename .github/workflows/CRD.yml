@@ -12,7 +12,7 @@ on:
   
 jobs:
   build:
-    runs-on: windows-2004
+    runs-on: windows-2016
 
     steps:
     - uses: actions/checkout@v2
